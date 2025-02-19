@@ -23,3 +23,4 @@ To provision these dashboards in your Grafana instance, run the following comman
 ```bash
 just push
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
